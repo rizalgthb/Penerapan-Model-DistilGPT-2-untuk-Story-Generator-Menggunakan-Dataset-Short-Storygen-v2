@@ -1,0 +1,1 @@
+# Penerapan-Model-DistilGPT-2-untuk-Story-Generator-Menggunakan-Dataset-Short-Storygen-v2
